@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrLorp
 - 👀 I’m interested in ... Minecraft Mods
-- 🌱 I’m currently learning ... Java & Minecraft Modding
+- 🌱 I’m currently learning ... Java & Minecraft Modding, Godot & GDScript
 - 💞️ I’m looking to collaborate on ... Nothing
 - 📫 How to reach me ... idk
 - 😄 Pronouns: ... He/Him
